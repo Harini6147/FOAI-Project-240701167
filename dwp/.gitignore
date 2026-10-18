@@ -1,0 +1,5 @@
+dwp/node_modules/
+dwp/dist/
+dwp/.env
+dwp/.env.*
+!dwp/.env.example
