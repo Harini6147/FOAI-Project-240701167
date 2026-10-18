@@ -48,7 +48,7 @@ Open http://localhost:8000/docs to see and test every API endpoint. The database
 - "Reset demo data" at the bottom of the app re-creates the demo database.
 - To move to PostgreSQL later, replace `database.py` (for example with SQLAlchemy).
 
-## Indian-language messaging, translation and voice
+## Indian-language messaging and translation
 - The messaging panel accepts Unicode text, so Tamil, English, Hindi, Telugu, Malayalam and Kannada can be typed and stored in SQLite.
 - In an active client-worker connection, choose the message's source language and target language, then select **Translate message**. 
 
